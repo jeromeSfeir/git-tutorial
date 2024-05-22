@@ -1,4 +1,4 @@
 fruits et légumes:
-  - pommes
+  - pommes golden delicious
   - poires
   - cerises
