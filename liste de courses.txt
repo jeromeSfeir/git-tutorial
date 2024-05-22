@@ -1,4 +1,4 @@
 fruits et légumes:
   - pommes
   - poires
-  - cerises
+  - cerises griottes
