@@ -1,3 +1,4 @@
 fruits et légumes:
   - pommes
   - poires
+  - serises
