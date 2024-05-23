@@ -2,3 +2,5 @@ fruits et légumes:
   - pommes golden delicious
   - poires
   - cerises griottes bien mûres
+  - titi
+  - toto
