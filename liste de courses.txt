@@ -3,4 +3,3 @@ fruits et légumes:
   - poires
   - cerises griottes bien mûres
   - titi
-  - toto
